@@ -1,0 +1,17 @@
+.heading{
+    background-color: bisque;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+    font-family: ui-monospace;
+    margin-bottom: 0px;
+
+}
+#heading{
+    margin-top: 15px;
+    background-color: bisque;
+    color: black;
+    padding: 5px;
+}
+
